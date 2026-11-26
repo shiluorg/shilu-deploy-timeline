@@ -1,0 +1,28 @@
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+World History Timeline — content licence
+Copyright 2026 Shilu project contributors, to the extent rights exist.
+
+The project-owned prose, translations, editorial selection, arrangement and
+database contributions in this repository are offered under Creative Commons
+Attribution-ShareAlike 4.0 International. The full licence is in
+LICENSES/CC-BY-SA-4.0.txt and at:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Suggested attribution: “World History Timeline / 实录 contributors”, with a
+link to the original event or content repository, the licence, and an indication
+of changes. Attribution does not imply endorsement or historical verification.
+
+Scope and exclusions:
+- The project owner reports that the original Chinese and English chronology
+  was generated using AI. See provenance.json and editorial review records.
+- Third-party quotations, images, trademarks, linked publications and separately
+  identified materials retain their own rights and licences.
+- The grant applies only to rights the contributors can grant. Facts or AI
+  output not protected by applicable rights are not made proprietary by this
+  notice. No new rights in third-party works are asserted.
+- Citation of an institution does not imply its endorsement of this project.
+
+中文：项目自有文字、译文、编排及数据库贡献，在存在可授予权利的范围内，
+采用 CC BY-SA 4.0。原始年表来自项目所有者此前使用 AI 生成的内容；不因此
+将其视为史实依据。第三方引文、图像、商标与链接作品不随本许可重新授权。

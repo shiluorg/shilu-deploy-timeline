@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 3,
+  "version": "c07c01868d181863",
+  "contentCommit": "b65bbb8b351be5517414b39ef564c7429e8f367a",
+  "storiesCommit": "b65bbb8b351be5517414b39ef564c7429e8f367a",
+  "codeCommit": "local",
+  "builtAt": "2026-11-26T11:21:25.111Z",
+  "eventCount": 8560,
+  "dataBase": "/data",
+  "mediaBase": "/media"
+}

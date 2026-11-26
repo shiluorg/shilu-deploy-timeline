@@ -1,0 +1,2462 @@
+{
+  "version": "c07c01868d181863",
+  "generatedAt": "2026-11-26T11:21:25.111Z",
+  "storyCount": 30,
+  "chapters": 228,
+  "stories": [
+    {
+      "slug": "american-revolution",
+      "kind": "event",
+      "title": {
+        "zh": "美国革命：从印花税到宪法",
+        "en": "The American Revolution: From Stamp Duty to Constitution"
+      },
+      "subtitle": {
+        "zh": "1765–1789：殖民地怎样把一场抗税运动变成一个国家",
+        "en": "1765–1789: how a tax protest became a nation-state"
+      },
+      "period": {
+        "start": 1765,
+        "end": 1789
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-e5e347d50d594aca",
+          "year": 1765,
+          "title": "英国颁布《印花税法》，北美殖民地抗议",
+          "titleEn": "Britain passes Stamp Act; North American colonies protest",
+          "href": "/events/evt-e5e347d50d594aca/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-ba39132347ebd5a6",
+          "year": 1773,
+          "title": "波士顿倾茶事件",
+          "titleEn": "Boston Tea Party",
+          "href": "/events/evt-ba39132347ebd5a6/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-2890435c0d67ba71",
+          "year": 1775,
+          "title": "列克星敦枪声，美国独立战争爆发",
+          "titleEn": "Shot heard round the world: American Revolutionary War begins",
+          "href": "/events/evt-2890435c0d67ba71/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-c7215175867f1f18",
+          "year": 1776,
+          "title": "《独立宣言》签署",
+          "titleEn": "Declaration of Independence signed",
+          "href": "/events/evt-c7215175867f1f18/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-6279d9ac5ecff4b0",
+          "year": 1777,
+          "title": "萨拉托加大捷，美国独立战争转折点",
+          "titleEn": "Saratoga victory: turning point of the American Revolutionary War",
+          "href": "/events/evt-6279d9ac5ecff4b0/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-c07f5241b3a4e8e9",
+          "year": 1781,
+          "title": "约克镇战役，美国独立战争胜利",
+          "titleEn": "Battle of Yorktown: American victory in Revolutionary War",
+          "href": "/events/evt-c07f5241b3a4e8e9/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-1c7e80fafb41642b",
+          "year": 1787,
+          "title": "美国制宪会议召开，宪法诞生",
+          "titleEn": "Constitutional Convention; U.S. Constitution born",
+          "href": "/events/evt-1c7e80fafb41642b/"
+        }
+      ]
+    },
+    {
+      "slug": "americas-before-columbus",
+      "kind": "event",
+      "title": {
+        "zh": "美洲文明：卡拉尔、玛雅与印加",
+        "en": "Civilizations of the Americas: Caral, Maya and the Inca"
+      },
+      "subtitle": {
+        "zh": "前2700–1521：在没有马与铁器的世界里，城市怎样成立",
+        "en": "2700 BCE–1521 CE: how cities arose in a world without horses or iron"
+      },
+      "period": {
+        "start": -2700,
+        "end": 1521
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-a2d20288d6e88fd6",
+          "year": -2700,
+          "title": "卡拉尔金字塔平台开始建造",
+          "titleEn": "Construction of pyramid platforms at Caral",
+          "href": "/events/evt-a2d20288d6e88fd6/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-c40edfea0cba3f63",
+          "year": -1400,
+          "title": "奥尔梅克文明：中美洲母文明",
+          "titleEn": "Olmec civilization: the mother culture of Mesoamerica",
+          "href": "/events/evt-c40edfea0cba3f63/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-7c20dd34eca1e131",
+          "year": 100,
+          "title": "特奥蒂瓦坎：美洲最早的大都市",
+          "titleEn": "Teotihuacan: The First Great Metropolis of the Americas",
+          "href": "/events/evt-7c20dd34eca1e131/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-85c51049302262c5",
+          "year": 250,
+          "title": "玛雅文明古典时期开始",
+          "titleEn": "Maya Classic period begins",
+          "href": "/events/evt-85c51049302262c5/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-fd5e0ce6c8a50356",
+          "year": 1325,
+          "title": "特诺奇蒂特兰建城：阿兹特克帝国开始",
+          "titleEn": "Foundation of Tenochtitlan: Beginning of the Aztec Empire",
+          "href": "/events/evt-fd5e0ce6c8a50356/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-f1c982c85b5c1b2a",
+          "year": 1450,
+          "title": "印加建造马丘比丘",
+          "titleEn": "The Inca build Machu Picchu",
+          "href": "/events/evt-f1c982c85b5c1b2a/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-a08c569cc6605866",
+          "year": 1521,
+          "title": "阿兹特克帝国首都特诺奇蒂特兰陷落",
+          "titleEn": "Fall of the Aztec capital Tenochtitlan",
+          "href": "/events/evt-a08c569cc6605866/"
+        }
+      ]
+    },
+    {
+      "slug": "assyria-nineveh",
+      "kind": "event",
+      "title": {
+        "zh": "亚述与新巴比伦：帝国、图书馆与耶路撒冷",
+        "en": "Assyria and Neo-Babylon: Empire, Library and Jerusalem"
+      },
+      "subtitle": {
+        "zh": "前885–前586：铁器帝国怎样统治，又怎样把耶路撒冷写进记忆",
+        "en": "885–586 BCE: how an iron-age empire ruled and wrote Jerusalem into memory"
+      },
+      "period": {
+        "start": -885,
+        "end": -586
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-54be02507a5f41c8",
+          "year": -885,
+          "title": "亚述那西尔帕二世镇压阿拉米人叛乱",
+          "titleEn": "Ashurnasirpal II suppresses an Aramean revolt",
+          "href": "/events/evt-54be02507a5f41c8/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-a885760ea8f791cb",
+          "year": -880,
+          "title": "亚述迁都尼姆鲁德（卡拉赫）",
+          "titleEn": "Assyria moves capital to Nimrud (Kalhu)",
+          "href": "/events/evt-a885760ea8f791cb/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-257e9a97e68f0275",
+          "year": -745,
+          "title": "亚述提格拉特帕拉沙尔三世即位，开启新亚述时期",
+          "titleEn": "Tiglath-Pileser III Ascends the Throne, Beginning the Neo-Assyrian Period",
+          "href": "/events/evt-257e9a97e68f0275/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-308acfca2cc65a8b",
+          "year": -722,
+          "title": "亚述帝国极盛，萨尔贡二世建立都城杜尔舍鲁金",
+          "titleEn": "Peak of the Assyrian Empire; Sargon II Builds Dur-Sharrukin",
+          "href": "/events/evt-308acfca2cc65a8b/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-d645a1d7e1608d8c",
+          "year": -655,
+          "title": "亚述巴尼拔在尼尼微建立大规模图书馆，收集泥板文书",
+          "titleEn": "Ashurbanipal establishes a great library at Nineveh, collecting cuneiform tablets",
+          "href": "/events/evt-d645a1d7e1608d8c/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-0805d5e3855988da",
+          "year": -612,
+          "title": "亚述帝国彻底瓦解，尼尼微被米底和新巴比伦联军围困",
+          "titleEn": "The Assyrian Empire completely collapses; Nineveh is besieged by the Medes and Neo-Babylonians",
+          "href": "/events/evt-0805d5e3855988da/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-74e71808b21b1d95",
+          "year": -586,
+          "title": "巴比伦攻陷耶路撒冷，犹大王国灭亡",
+          "titleEn": "Babylon captures Jerusalem, ending the Kingdom of Judah",
+          "href": "/events/evt-74e71808b21b1d95/"
+        }
+      ]
+    },
+    {
+      "slug": "baghdad-translation",
+      "kind": "event",
+      "title": {
+        "zh": "巴格达：翻译、代数与医学的黄金时代",
+        "en": "Baghdad: Translation, Algebra and the Golden Age of Medicine"
+      },
+      "subtitle": {
+        "zh": "751–925：纸、翻译与机构怎样把知识变成可用的工具",
+        "en": "751–925: how paper, translation and institutions turned knowledge into usable tools"
+      },
+      "period": {
+        "start": 751,
+        "end": 925
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-8e7c4285d97fe3e8",
+          "year": 751,
+          "title": "怛罗斯之后：纸进入伊斯兰世界",
+          "titleEn": "After Talas: paper enters the Islamic world",
+          "href": "/events/evt-8e7c4285d97fe3e8/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-15db7f5286577ce2",
+          "year": 770,
+          "title": "翻译运动：把希腊、波斯与印度搬进阿拉伯语",
+          "titleEn": "The translation movement: Greek, Persian and Indian works in Arabic",
+          "href": "/events/evt-15db7f5286577ce2/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-a6a7a9d11239e858",
+          "year": 775,
+          "title": "巴格达：智慧之家与学术中心",
+          "titleEn": "Baghdad: the House of Wisdom and a scholarly centre",
+          "href": "/events/evt-a6a7a9d11239e858/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-b22559ac67414538",
+          "year": 803,
+          "title": "造纸工坊：书为什么变便宜",
+          "titleEn": "The paper mill: why books became cheaper",
+          "href": "/events/evt-b22559ac67414538/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-08e6a4b6eb368516",
+          "year": 807,
+          "title": "花拉子密：从印度数字到代数",
+          "titleEn": "Al-Khwarizmi: from Indian numerals to algebra",
+          "href": "/events/evt-08e6a4b6eb368516/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-b4745ef3fce42ba1",
+          "year": 816,
+          "title": "《信德及印度天文表》：把天空算出来",
+          "titleEn": "The Sindhind Zij: calculating the heavens",
+          "href": "/events/evt-b4745ef3fce42ba1/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-b83d5ec0bb1a9e29",
+          "year": 818,
+          "title": "智慧宫鼎盛：亚里士多德、托勒密与希波克拉底",
+          "titleEn": "The House of Wisdom at its height: Aristotle, Ptolemy and Hippocrates",
+          "href": "/events/evt-b83d5ec0bb1a9e29/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-e7cda0f2bf67c1d9",
+          "year": 825,
+          "title": "《代数学》：还原与对消",
+          "titleEn": "The Algebra: restoration and balancing",
+          "href": "/events/evt-e7cda0f2bf67c1d9/"
+        },
+        {
+          "no": 9,
+          "eventId": "evt-0ac859bf85366f7a",
+          "year": 829,
+          "title": "法甘尼《天文学纲要》：教科书怎样穿过世纪",
+          "titleEn": "Al-Farghani's Elements of Astronomy: a textbook across centuries",
+          "href": "/events/evt-0ac859bf85366f7a/"
+        },
+        {
+          "no": 10,
+          "eventId": "evt-2231508193ef10b3",
+          "year": 902,
+          "title": "拉齐：医院、临床观察与病例",
+          "titleEn": "Al-Razi: hospitals, clinical observation and cases",
+          "href": "/events/evt-2231508193ef10b3/"
+        },
+        {
+          "no": 11,
+          "eventId": "evt-d934c0629c6104cc",
+          "year": 910,
+          "title": "天花与麻疹：两种病被分开",
+          "titleEn": "Smallpox and measles: two diseases separated",
+          "href": "/events/evt-d934c0629c6104cc/"
+        },
+        {
+          "no": 12,
+          "eventId": "evt-f1bdc9a57c5299ff",
+          "year": 925,
+          "title": "拉齐之死：医学集成与身后声誉",
+          "titleEn": "The death of al-Razi: the Continens and later reputation",
+          "href": "/events/evt-f1bdc9a57c5299ff/"
+        }
+      ]
+    },
+    {
+      "slug": "byzantium-constantinople",
+      "kind": "event",
+      "title": {
+        "zh": "拜占庭：城墙、法典与圣索菲亚",
+        "en": "Byzantium: Walls, Code and Hagia Sophia"
+      },
+      "subtitle": {
+        "zh": "324–537：新罗马怎样把帝国装进一座城",
+        "en": "324–537: how New Rome packed an empire into one city"
+      },
+      "period": {
+        "start": 324,
+        "end": 537
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-3593da7bd1f92864",
+          "year": 324,
+          "title": "君士坦丁在拜占庭旧址建立新罗马",
+          "titleEn": "Constantine founds New Rome on the site of Byzantium",
+          "href": "/events/evt-3593da7bd1f92864/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-40916abde7dec91c",
+          "year": 413,
+          "title": "狄奥多西城墙：把君士坦丁堡围成要塞",
+          "titleEn": "The Theodosian Walls turn Constantinople into a fortress",
+          "href": "/events/evt-40916abde7dec91c/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-79ad3aa82d0c68c9",
+          "year": 438,
+          "title": "《狄奥多西法典》：把皇帝敕令编成官方法典",
+          "titleEn": "The Theodosian Code turns imperial rulings into an official code",
+          "href": "/events/evt-79ad3aa82d0c68c9/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-6871c1f875969e82",
+          "year": 451,
+          "title": "卡尔西顿公会议：二性论成为正统",
+          "titleEn": "Council of Chalcedon: two natures become orthodox",
+          "href": "/events/evt-6871c1f875969e82/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-dc21a4cabde65970",
+          "year": 529,
+          "title": "《查士丁尼法典》：把罗马法收进四部书",
+          "titleEn": "The Code of Justinian: Roman law in four books",
+          "href": "/events/evt-dc21a4cabde65970/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-f5728424efc30c4b",
+          "year": 537,
+          "title": "圣索菲亚大教堂：把皇权与牧首权放进一个穹顶",
+          "titleEn": "Hagia Sophia: imperial power and patriarchate under one dome",
+          "href": "/events/evt-f5728424efc30c4b/"
+        }
+      ]
+    },
+    {
+      "slug": "cao-cao",
+      "kind": "person",
+      "title": {
+        "zh": "曹操：从济南相到魏王",
+        "en": "Cao Cao: From Chancellor of Jinan to King of Wei"
+      },
+      "subtitle": {
+        "zh": "地方吏治、收编武装、建立根据地，再到魏公国与魏王府",
+        "en": "Local administration, incorporated troops, a base of power, then the Duchy and Kingdom of Wei"
+      },
+      "period": {
+        "start": 187,
+        "end": 216
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-d89d956edfd6e86b",
+          "year": 187,
+          "title": "曹操任济南相",
+          "titleEn": "Cao Cao appointed Chancellor of Jinan",
+          "href": "/events/evt-d89d956edfd6e86b/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-e6a3bfa0b03d689b",
+          "year": 191,
+          "title": "收编青州黄巾",
+          "titleEn": "Incorporating the Qingzhou Yellow Turbans",
+          "href": "/events/evt-e6a3bfa0b03d689b/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-60ec85b26dea8243",
+          "year": 192,
+          "title": "击败黄巾余部据兖州",
+          "titleEn": "Defeats remaining Yellow Turbans and holds Yan Province",
+          "href": "/events/evt-60ec85b26dea8243/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-4c0120c3cba48991",
+          "year": 193,
+          "title": "攻打徐州",
+          "titleEn": "Campaign against Xuzhou",
+          "href": "/events/evt-4c0120c3cba48991/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-403e5b7a84e72e1c",
+          "year": 197,
+          "title": "讨伐张绣",
+          "titleEn": "Campaign against Zhang Xiu",
+          "href": "/events/evt-403e5b7a84e72e1c/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-f1b2a17e2d307d53",
+          "year": 198,
+          "title": "消灭吕布",
+          "titleEn": "Eliminating Lü Bu",
+          "href": "/events/evt-f1b2a17e2d307d53/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-a9fb99fcdf24ed8a",
+          "year": 213,
+          "title": "进爵魏公",
+          "titleEn": "Enfeoffed Duke of Wei",
+          "href": "/events/evt-a9fb99fcdf24ed8a/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-9af479c0b856f80a",
+          "year": 216,
+          "title": "进爵魏王",
+          "titleEn": "Enfeoffed King of Wei",
+          "href": "/events/evt-9af479c0b856f80a/"
+        }
+      ]
+    },
+    {
+      "slug": "chibi",
+      "kind": "event",
+      "title": {
+        "zh": "赤壁：长江边上的统一阻断",
+        "en": "Red Cliffs: The Blocker on the Yangtze"
+      },
+      "subtitle": {
+        "zh": "荆州降后曹操南下，孙刘以水战与联姻断其统一势头",
+        "en": "After Jingzhou falls, Cao Cao moves south; the Sun–Liu alliance halts his momentum by river war and marriage"
+      },
+      "period": {
+        "start": 208,
+        "end": 211
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-17d9136d4a3ba515",
+          "year": 208,
+          "title": "曹操占荆州，刘琮投降",
+          "titleEn": "Cao Cao seizes Jingzhou; Liu Cong surrenders",
+          "href": "/events/evt-17d9136d4a3ba515/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-d8d1b404e096393a",
+          "year": 208,
+          "title": "赤壁火攻",
+          "titleEn": "The fire attack at Red Cliffs",
+          "href": "/events/evt-d8d1b404e096393a/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-755b498ab26fba41",
+          "year": 209,
+          "title": "孙权嫁妹固盟",
+          "titleEn": "Sun Quan marries his sister to Liu Bei",
+          "href": "/events/evt-755b498ab26fba41/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-8a1ed0671e28b4a0",
+          "year": 209,
+          "title": "周瑜程普争江陵",
+          "titleEn": "Zhou Yu and Cheng Pu contest Jiangling",
+          "href": "/events/evt-8a1ed0671e28b4a0/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-d32c634ddebbaab1",
+          "year": 210,
+          "title": "周瑜巴丘病逝",
+          "titleEn": "Zhou Yu dies at Baqiu",
+          "href": "/events/evt-d32c634ddebbaab1/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-7dacffb414bb9d17",
+          "year": 210,
+          "title": "曹操《求贤令》",
+          "titleEn": "Cao Cao's Call for Talent",
+          "href": "/events/evt-7dacffb414bb9d17/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-70bc4e54acc3a8cc",
+          "year": 211,
+          "title": "渭南之战",
+          "titleEn": "The Battle of Weinan",
+          "href": "/events/evt-70bc4e54acc3a8cc/"
+        }
+      ]
+    },
+    {
+      "slug": "frankish-empire",
+      "kind": "event",
+      "title": {
+        "zh": "法兰克：从克洛维受洗到凡尔登三分",
+        "en": "The Franks: from Clovis's baptism to Verdun"
+      },
+      "subtitle": {
+        "zh": "481–843：一个蛮族王国怎样变成欧洲的骨架",
+        "en": "481–843: how a “barbarian” kingdom became a European framework"
+      },
+      "period": {
+        "start": 481,
+        "end": 843
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-a21fd5143fe0c747",
+          "year": 481,
+          "title": "苏瓦松之后：克洛维接管罗马高卢的残余",
+          "titleEn": "After Soissons: Clovis takes over the Roman remnant in Gaul",
+          "href": "/events/evt-a21fd5143fe0c747/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-faac57329a045e10",
+          "year": 496,
+          "title": "兰斯受洗：克洛维把王权放进教会秩序",
+          "titleEn": "Baptism at Reims: Clovis places kingship inside the church",
+          "href": "/events/evt-faac57329a045e10/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-d9b4896c2c8304a0",
+          "year": 687,
+          "title": "特特里之后：宫相成为真正的统治者",
+          "titleEn": "After Tertry: the mayor becomes the real ruler",
+          "href": "/events/evt-d9b4896c2c8304a0/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-6a8b1d68c1e9d0f0",
+          "year": 768,
+          "title": "分产与并吞：查理曼拿到整个法兰克",
+          "titleEn": "Partition and takeover: Charlemagne gets the whole Frankish realm",
+          "href": "/events/evt-6a8b1d68c1e9d0f0/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-42548dbb9e93f26a",
+          "year": 800,
+          "title": "圣彼得大教堂的加冕：皇帝头衔回到西部",
+          "titleEn": "Coronation at St. Peter's: the imperial title returns to the West",
+          "href": "/events/evt-42548dbb9e93f26a/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-cb52781b9137ac38",
+          "year": 843,
+          "title": "凡尔登三分：帝国按继承习惯裂开",
+          "titleEn": "Verdun: the empire splits along inheritance lines",
+          "href": "/events/evt-cb52781b9137ac38/"
+        }
+      ]
+    },
+    {
+      "slug": "greek-polis",
+      "kind": "event",
+      "title": {
+        "zh": "希腊城邦：民主的边界",
+        "en": "The Greek Polis: The Limits of Democracy"
+      },
+      "subtitle": {
+        "zh": "前800–前404：公民政治怎样在城邦里生长，又怎样被同盟与战争反噬",
+        "en": "800–404 BCE: how citizen politics grew in the polis, and how alliance and war turned against it"
+      },
+      "period": {
+        "start": -800,
+        "end": -404
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-c5e063683cb66a7c",
+          "year": -800,
+          "title": "城邦：以城市为中心的政治共同体",
+          "titleEn": "The polis: a political community centred on a town",
+          "href": "/events/evt-c5e063683cb66a7c/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-a5d6f647f5e3e374",
+          "year": -776,
+          "title": "奥林匹亚：赛会与“神圣休战”",
+          "titleEn": "Olympia: the games and the sacred truce",
+          "href": "/events/evt-a5d6f647f5e3e374/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-2f370643dc682002",
+          "year": -594,
+          "title": "梭伦：解负令与财产等级",
+          "titleEn": "Solon: debt relief and property classes",
+          "href": "/events/evt-2f370643dc682002/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-e109b1b08b410670",
+          "year": -508,
+          "title": "克里斯提尼：重划部落与选区",
+          "titleEn": "Cleisthenes: redrawing tribes and constituencies",
+          "href": "/events/evt-e109b1b08b410670/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-a8f9539ffb5be2ab",
+          "year": -490,
+          "title": "马拉松：以少胜多的第一次",
+          "titleEn": "Marathon: the first victory against the odds",
+          "href": "/events/evt-a8f9539ffb5be2ab/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-305e4ec1e1e414da",
+          "year": -480,
+          "title": "温泉关：三百人与数百名盟军",
+          "titleEn": "Thermopylae: three hundred and several hundred allies",
+          "href": "/events/evt-305e4ec1e1e414da/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-f8ebe795c38fcb13",
+          "year": -480,
+          "title": "萨拉米斯：狭窄海峡里的逆转",
+          "titleEn": "Salamis: a reversal in a narrow strait",
+          "href": "/events/evt-f8ebe795c38fcb13/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-fa65b2b7febe9f22",
+          "year": -479,
+          "title": "普拉提亚：陆上入侵的终点",
+          "titleEn": "Plataea: the end of the land invasion",
+          "href": "/events/evt-fa65b2b7febe9f22/"
+        },
+        {
+          "no": 9,
+          "eventId": "evt-c0fbd1576783a332",
+          "year": -478,
+          "title": "提洛同盟：从抗击波斯到雅典帝国",
+          "titleEn": "The Delian League: from Persian war to Athenian empire",
+          "href": "/events/evt-c0fbd1576783a332/"
+        },
+        {
+          "no": 10,
+          "eventId": "evt-43d72cbb40a64753",
+          "year": -447,
+          "title": "帕特农：把城邦放进石头",
+          "titleEn": "The Parthenon: putting the polis in stone",
+          "href": "/events/evt-43d72cbb40a64753/"
+        },
+        {
+          "no": 11,
+          "eventId": "evt-731a35045c7abe04",
+          "year": -431,
+          "title": "伯罗奔尼撒战争：同盟的裂缝",
+          "titleEn": "The Peloponnesian War: cracks in the alliance",
+          "href": "/events/evt-731a35045c7abe04/"
+        },
+        {
+          "no": 12,
+          "eventId": "evt-d65b98a894d7da42",
+          "year": -404,
+          "title": "羊河之后：雅典投降",
+          "titleEn": "After Aegospotami: Athens surrenders",
+          "href": "/events/evt-d65b98a894d7da42/"
+        }
+      ]
+    },
+    {
+      "slug": "guandu",
+      "kind": "event",
+      "title": {
+        "zh": "官渡：北方霸权的转手",
+        "en": "Guandu: The Handover of Northern Power"
+      },
+      "subtitle": {
+        "zh": "从迎献帝到白狼山，曹操怎样把河北均势翻成一家独大",
+        "en": "From receiving Emperor Xian to White Wolf Mountain: how Cao Cao turns the Hebei balance into a monopoly"
+      },
+      "period": {
+        "start": 196,
+        "end": 207
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-241480a77d993168",
+          "year": 196,
+          "title": "迎汉献帝迁都许昌",
+          "titleEn": "Receiving Emperor Xian and moving the capital to Xuchang",
+          "href": "/events/evt-241480a77d993168/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-bf55c28385e98567",
+          "year": 196,
+          "title": "在许昌推行屯田制",
+          "titleEn": "Implementing the tuntian colonies around Xuchang",
+          "href": "/events/evt-bf55c28385e98567/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-7b16da38d684fe7e",
+          "year": 199,
+          "title": "消灭公孙瓒，统一河北",
+          "titleEn": "Defeating Gongsun Zan and unifying Hebei",
+          "href": "/events/evt-7b16da38d684fe7e/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-f1ec279658b9e92c",
+          "year": 200,
+          "title": "官渡之战",
+          "titleEn": "The Battle of Guandu",
+          "href": "/events/evt-f1ec279658b9e92c/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-62fee54df942e850",
+          "year": 201,
+          "title": "官渡之后乘胜平定河北",
+          "titleEn": "Pursuing victory and pacifying Hebei after Guandu",
+          "href": "/events/evt-62fee54df942e850/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-42e379858ffb005a",
+          "year": 202,
+          "title": "袁绍病逝，袁谭袁尚争位",
+          "titleEn": "Yuan Shao's death and the succession struggle",
+          "href": "/events/evt-42e379858ffb005a/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-31a3e93c857dcbb1",
+          "year": 204,
+          "title": "攻占邺城",
+          "titleEn": "The capture of Yecheng",
+          "href": "/events/evt-31a3e93c857dcbb1/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-d2014d935d7f8818",
+          "year": 207,
+          "title": "白狼山大破乌桓",
+          "titleEn": "Crushing the Wuhuan at White Wolf Mountain",
+          "href": "/events/evt-d2014d935d7f8818/"
+        }
+      ]
+    },
+    {
+      "slug": "hanzhong",
+      "kind": "event",
+      "title": {
+        "zh": "汉中：三角之间的鼎立成形",
+        "en": "Hanzhong: How the Triangle Solidified into Tripartite Rule"
+      },
+      "subtitle": {
+        "zh": "汉中、襄樊、江陵三条线同时发力，统一之势转为三方并立",
+        "en": "Hanzhong, Fancheng, and Jiangling move at once; unification turns into a three-way balance"
+      },
+      "period": {
+        "start": 217,
+        "end": 220
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-5106e3a70277d76e",
+          "year": 217,
+          "title": "汉中相持",
+          "titleEn": "The stalemate in Hanzhong",
+          "href": "/events/evt-5106e3a70277d76e/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-46d5089d130110b7",
+          "year": 218,
+          "title": "定军山、汉水",
+          "titleEn": "Mount Dingjun and the Han River",
+          "href": "/events/evt-46d5089d130110b7/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-b0cfa2a84552ebfd",
+          "year": 219,
+          "title": "关羽襄樊，水淹七军",
+          "titleEn": "Guan Yu at Fancheng, flooding the seven armies",
+          "href": "/events/evt-b0cfa2a84552ebfd/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-b9daecd68893224a",
+          "year": 219,
+          "title": "吕蒙白衣渡江，关羽败亡",
+          "titleEn": "Lü Meng's white-sailed crossing and Guan Yu's fall",
+          "href": "/events/evt-b9daecd68893224a/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-d04583e76804d0d2",
+          "year": 219,
+          "title": "刘备称汉中王",
+          "titleEn": "Liu Bei becomes King of Hanzhong",
+          "href": "/events/evt-d04583e76804d0d2/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-0a6d14bea4581ab1",
+          "year": 220,
+          "title": "曹操病逝洛阳",
+          "titleEn": "Cao Cao dies at Luoyang",
+          "href": "/events/evt-0a6d14bea4581ab1/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-34be5400a5290291",
+          "year": 220,
+          "title": "曹丕代汉建魏",
+          "titleEn": "Cao Pi founds Wei and ends the Han",
+          "href": "/events/evt-34be5400a5290291/"
+        }
+      ]
+    },
+    {
+      "slug": "hebrew-kingdoms",
+      "kind": "event",
+      "title": {
+        "zh": "以色列与犹大：圣殿、分裂与流亡",
+        "en": "Israel and Judah: Temple, Schism and Exile"
+      },
+      "subtitle": {
+        "zh": "前1000–前732：一个小王国怎样在帝国夹缝里留下文本",
+        "en": "1000–732 BCE: how small kingdoms in the shadow of empires left a text"
+      },
+      "period": {
+        "start": -1000,
+        "end": -732
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-a6fcb4770dc62eca",
+          "year": -1000,
+          "title": "大卫统一以色列十二支派并定都耶路撒冷",
+          "titleEn": "David unites the twelve tribes of Israel and establishes Jerusalem as capital",
+          "href": "/events/evt-a6fcb4770dc62eca/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-ca2910624d958d9e",
+          "year": -975,
+          "title": "所罗门王开始建造第一圣殿",
+          "titleEn": "King Solomon begins construction of the First Temple",
+          "href": "/events/evt-ca2910624d958d9e/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-eedeaaf6f578f465",
+          "year": -966,
+          "title": "所罗门圣殿竣工，约柜迁入",
+          "titleEn": "Solomon's Temple completed, Ark brought in",
+          "href": "/events/evt-eedeaaf6f578f465/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-1a8fd6f5d9abc814",
+          "year": -958,
+          "title": "示巴女王访问所罗门",
+          "titleEn": "Queen of Sheba visits Solomon",
+          "href": "/events/evt-1a8fd6f5d9abc814/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-97b5df42b372068b",
+          "year": -931,
+          "title": "所罗门王去世，以色列王国分裂",
+          "titleEn": "King Solomon dies, the Kingdom of Israel splits",
+          "href": "/events/evt-97b5df42b372068b/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-9d7834a7f0676acd",
+          "year": -732,
+          "title": "亚述攻陷撒马利亚，以色列王国灭亡",
+          "titleEn": "Assyria Captures Samaria; Kingdom of Israel Falls",
+          "href": "/events/evt-9d7834a7f0676acd/"
+        }
+      ]
+    },
+    {
+      "slug": "indus-vedic",
+      "kind": "event",
+      "title": {
+        "zh": "印度河与吠陀：城市、贸易与种姓的起源",
+        "en": "Indus and Vedic: Cities, Trade and the Origins of Caste"
+      },
+      "subtitle": {
+        "zh": "公元前三千纪–前900：从网格城市到瓦尔纳秩序",
+        "en": "3rd millennium–900 BCE: from grid cities to the varna order"
+      },
+      "period": {
+        "start": -2900,
+        "end": -900
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-76dfbe0dae35521a",
+          "year": -2900,
+          "title": "印度河流域文明从村落走向城市",
+          "titleEn": "Indus civilisation grows from villages into cities",
+          "href": "/events/evt-76dfbe0dae35521a/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-1fad4f03800e5a8e",
+          "year": -2600,
+          "title": "摩亨佐-达罗：先有规划，后有城市",
+          "titleEn": "Mohenjo-daro: planning before the city",
+          "href": "/events/evt-1fad4f03800e5a8e/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-43830e56bdb3ebb6",
+          "year": -2600,
+          "title": "哈拉帕与摩亨佐-达罗：没有王宫的城市秩序",
+          "titleEn": "Harappa and Mohenjo-daro: urban order without a palace",
+          "href": "/events/evt-43830e56bdb3ebb6/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-007215772e72ca5b",
+          "year": -2500,
+          "title": "通往美索不达米亚：原料、砝码与海运贸易",
+          "titleEn": "Road to Mesopotamia: raw materials, weights and maritime trade",
+          "href": "/events/evt-007215772e72ca5b/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-2835c28304f42597",
+          "year": -2500,
+          "title": "住在摩亨佐-达罗：水井、浴室与排水沟",
+          "titleEn": "Living in Mohenjo-daro: wells, baths and drains",
+          "href": "/events/evt-2835c28304f42597/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-a7f7cd693f7458f3",
+          "year": -2040,
+          "title": "城市解体：没有单一原因的衰落",
+          "titleEn": "Cities dissolve: a decline without a single cause",
+          "href": "/events/evt-a7f7cd693f7458f3/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-1e679509d3d50ec4",
+          "year": -982,
+          "title": "晚期吠陀：瓦尔纳秩序与王权",
+          "titleEn": "Late Vedic: varna order and kingship",
+          "href": "/events/evt-1e679509d3d50ec4/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-07b164afb1ed8e6e",
+          "year": -900,
+          "title": "种姓的雏形：四瓦尔纳与社会分层",
+          "titleEn": "The shape of caste: four varnas and social stratification",
+          "href": "/events/evt-07b164afb1ed8e6e/"
+        }
+      ]
+    },
+    {
+      "slug": "japan-ritsuryo",
+      "kind": "event",
+      "title": {
+        "zh": "日本律令国家：佛教、太子与奈良",
+        "en": "Japan's Ritsuryo State: Buddhism, Prince Shotoku and Nara"
+      },
+      "subtitle": {
+        "zh": "552–784：从氏族联盟到律令官僚",
+        "en": "552–784: from clan coalition to a code-based bureaucracy"
+      },
+      "period": {
+        "start": 552,
+        "end": 784
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-2cb34eda2284f063",
+          "year": 552,
+          "title": "佛教传入：宫廷外交与氏族竞争",
+          "titleEn": "Buddhism enters Japan: court diplomacy and clan rivalry",
+          "href": "/events/evt-2cb34eda2284f063/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-0f568c8404823df8",
+          "year": 593,
+          "title": "圣德太子摄政：冠位十二阶与官僚化开端",
+          "titleEn": "Shōtoku's regency: the twelve ranks and the beginning of a bureaucracy",
+          "href": "/events/evt-0f568c8404823df8/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-cc416f8b73e49203",
+          "year": 604,
+          "title": "《宪法十七条》：给官员的道德训诫",
+          "titleEn": "The Seventeen-Article Constitution: a moral charge to officials",
+          "href": "/events/evt-cc416f8b73e49203/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-3fc281f4741ea127",
+          "year": 645,
+          "title": "大化改新：把土地与人民写成“公”的",
+          "titleEn": "The Taika reforms: writing land and people as \"public\"",
+          "href": "/events/evt-3fc281f4741ea127/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-ef7bfdc9e17bf307",
+          "year": 701,
+          "title": "《大宝律令》：唐制落地为日本法典",
+          "titleEn": "The Taihō code: Tang institutions become Japanese law",
+          "href": "/events/evt-ef7bfdc9e17bf307/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-dd1fbee8ad67a6b4",
+          "year": 710,
+          "title": "平城京与东大寺：把佛教放进国家机器",
+          "titleEn": "Heijō-kyō and Tōdai-ji: Buddhism inside the state machine",
+          "href": "/events/evt-dd1fbee8ad67a6b4/"
+        }
+      ]
+    },
+    {
+      "slug": "korea-three-kingdoms",
+      "kind": "event",
+      "title": {
+        "zh": "朝鲜三国：佛教、汉江与统一新罗",
+        "en": "The Three Kingdoms of Korea: Buddhism, the Han River and Unified Silla"
+      },
+      "subtitle": {
+        "zh": "372–751：佛教、汉江与唐的联盟怎样改写半岛",
+        "en": "372–751: how Buddhism, the Han River and the Tang alliance remade the peninsula"
+      },
+      "period": {
+        "start": 372,
+        "end": 751
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-3861709a0dd58497",
+          "year": 372,
+          "title": "佛教传入高句丽：王权需要一套新语言",
+          "titleEn": "Buddhism enters Goguryeo: a new language for royal power",
+          "href": "/events/evt-3861709a0dd58497/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-814ff620a3988351",
+          "year": 470,
+          "title": "汉江易手：百济迁都熊津",
+          "titleEn": "The Han River changes hands: Baekje moves its capital to Ungjin",
+          "href": "/events/evt-814ff620a3988351/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-31c53b89d8fe0acc",
+          "year": 642,
+          "title": "渊盖苏文政变：将军握住王权",
+          "titleEn": "Yeon Gaesomun's coup: a general takes hold of royal power",
+          "href": "/events/evt-31c53b89d8fe0acc/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-5e13f21b62d7f613",
+          "year": 668,
+          "title": "统一新罗：先借唐，再逐唐",
+          "titleEn": "Unified Silla: borrow Tang, then expel Tang",
+          "href": "/events/evt-5e13f21b62d7f613/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-5923674ae1f044fd",
+          "year": 751,
+          "title": "佛国寺与石窟庵：把信仰刻进花岗岩",
+          "titleEn": "Bulguksa and Seokguram: faith carved in granite",
+          "href": "/events/evt-5923674ae1f044fd/"
+        }
+      ]
+    },
+    {
+      "slug": "kushan-silk-road",
+      "kind": "event",
+      "title": {
+        "zh": "贵霜：金币、犍陀罗与丝路佛教",
+        "en": "The Kushans: Gold, Gandhara and Silk Road Buddhism"
+      },
+      "subtitle": {
+        "zh": "37–143：一个中亚帝国怎样把希腊、印度与佛教装进同一枚钱币",
+        "en": "37–143: how a Central Asian empire put Greece, India and Buddhism on one coin"
+      },
+      "period": {
+        "start": 37,
+        "end": 143
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-3337d721a9054d83",
+          "year": 37,
+          "title": "贵霜丘就却正式称王",
+          "titleEn": "Kujula Kadphises of the Kushan Formally Proclaimed King",
+          "href": "/events/evt-3337d721a9054d83/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-35b78366fca19e8b",
+          "year": 60,
+          "title": "贵霜国王阎膏珍铸造金币",
+          "titleEn": "Kushan King Vima Kadphises Minted Gold Coins",
+          "href": "/events/evt-35b78366fca19e8b/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-e9cff0cc17d1d89a",
+          "year": 78,
+          "title": "贵霜迦腻色伽一世即位",
+          "titleEn": "Kanishka I of the Kushan Ascended the Throne",
+          "href": "/events/evt-e9cff0cc17d1d89a/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-3c7a5309d284a70b",
+          "year": 102,
+          "title": "贵霜帝国犍陀罗佛教艺术达到顶峰",
+          "titleEn": "Gandharan Buddhist art reaches its peak in the Kushan Empire",
+          "href": "/events/evt-3c7a5309d284a70b/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-5c26d91461e7d91e",
+          "year": 110,
+          "title": "贵霜帝国佛教艺术传入中国西域",
+          "titleEn": "Kushan Buddhist art spreads to the Chinese Western Regions",
+          "href": "/events/evt-5c26d91461e7d91e/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-1566b2eeced3d3f3",
+          "year": 143,
+          "title": "贵霜帝国文化艺术达到鼎盛",
+          "titleEn": "Kushan Empire reaches cultural zenith",
+          "href": "/events/evt-1566b2eeced3d3f3/"
+        }
+      ]
+    },
+    {
+      "slug": "liu-bei",
+      "kind": "person",
+      "title": {
+        "zh": "刘备：半生流徙到成都称帝",
+        "en": "Liu Bei: From a Wandering Leader to Emperor in Chengdu"
+      },
+      "subtitle": {
+        "zh": "援徐州、入蜀、取益州、争荆州，最后在成都建国",
+        "en": "Aiding Xuzhou, entering Shu, taking Yizhou, contesting Jingzhou, and founding his state in Chengdu"
+      },
+      "period": {
+        "start": 194,
+        "end": 223
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-e3ae78d475b4744f",
+          "year": 194,
+          "title": "援徐州初展锋芒",
+          "titleEn": "Aid to Xuzhou and his first mark",
+          "href": "/events/evt-e3ae78d475b4744f/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-9fb525d26f5ca4ea",
+          "year": 211,
+          "title": "应刘璋之邀入蜀",
+          "titleEn": "Entering Shu at Liu Zhang's invitation",
+          "href": "/events/evt-9fb525d26f5ca4ea/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-067fc0b4d532a001",
+          "year": 213,
+          "title": "与刘璋决裂取涪城",
+          "titleEn": "Breaks with Liu Zhang and takes Fucheng",
+          "href": "/events/evt-067fc0b4d532a001/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-fc2897dbbc0de6e1",
+          "year": 214,
+          "title": "攻陷成都领益州",
+          "titleEn": "Captures Chengdu and takes Yizhou",
+          "href": "/events/evt-fc2897dbbc0de6e1/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-d41efe2064065796",
+          "year": 215,
+          "title": "荆州之争表面缓和",
+          "titleEn": "Jingzhou dispute temporarily eased",
+          "href": "/events/evt-d41efe2064065796/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-11f93c5383c955d0",
+          "year": 221,
+          "title": "成都称帝国号汉",
+          "titleEn": "Proclaims emperor in Chengdu, dynasty Han",
+          "href": "/events/evt-11f93c5383c955d0/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-ba8bded9831817e8",
+          "year": 221,
+          "title": "兴兵伐吴",
+          "titleEn": "Campaign against Wu",
+          "href": "/events/evt-ba8bded9831817e8/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-e7e0bfa512316e6e",
+          "year": 222,
+          "title": "夷陵惨败退往白帝城",
+          "titleEn": "Crushing defeat at Xiaoting, retreat to Baidi City",
+          "href": "/events/evt-e7e0bfa512316e6e/"
+        }
+      ]
+    },
+    {
+      "slug": "mongol-rise",
+      "kind": "event",
+      "title": {
+        "zh": "蒙古帝国：从斡难河到伏尔加河",
+        "en": "The Mongol Empire: From the Onon to the Volga"
+      },
+      "subtitle": {
+        "zh": "两代人的时间，草原政权怎样把战争推到中亚、罗斯与中欧",
+        "en": "Two generations, and a steppe power whose wars reached Central Asia, the Rus' lands and Central Europe"
+      },
+      "period": {
+        "start": 1206,
+        "end": 1242
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-058046077bd6831c",
+          "year": 1206,
+          "title": "斡难河边的忽里勒台",
+          "titleEn": "The kurultai by the Onon",
+          "href": "/events/evt-058046077bd6831c/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-4bd8c9c32b82e727",
+          "year": 1209,
+          "title": "先打西夏，打开南下的侧门",
+          "titleEn": "Striking Western Xia first, opening the southern flank",
+          "href": "/events/evt-4bd8c9c32b82e727/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-c648e1ef00e13674",
+          "year": 1211,
+          "title": "野狐岭：金军野战主力的崩溃",
+          "titleEn": "Yehuling: the collapse of the Jin field army",
+          "href": "/events/evt-c648e1ef00e13674/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-b1466661e05c397e",
+          "year": 1215,
+          "title": "中都陷落与华北的放弃",
+          "titleEn": "The fall of Zhongdu and the abandonment of North China",
+          "href": "/events/evt-b1466661e05c397e/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-5400e1f75a89489e",
+          "year": 1217,
+          "title": "花剌子模：商队血案与第一次西征",
+          "titleEn": "Khwarazm: the caravan massacre and the first western campaign",
+          "href": "/events/evt-5400e1f75a89489e/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-4d5a37c32bbb21e9",
+          "year": 1220,
+          "title": "撒马尔罕：五天与三万工匠",
+          "titleEn": "Samarkand: five days and thirty thousand craftsmen",
+          "href": "/events/evt-4d5a37c32bbb21e9/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-7dd2898925cb89b9",
+          "year": 1223,
+          "title": "迦勒迦河：佯退与两翼",
+          "titleEn": "The Kalka: feigned retreat and two wings",
+          "href": "/events/evt-7dd2898925cb89b9/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-51fc984731a54e8f",
+          "year": 1227,
+          "title": "六盘山下的遗命",
+          "titleEn": "The deathbed orders below Liupan Mountain",
+          "href": "/events/evt-51fc984731a54e8f/"
+        },
+        {
+          "no": 9,
+          "eventId": "evt-84b509244d27db63",
+          "year": 1235,
+          "title": "长子西征：从草原到罗斯",
+          "titleEn": "The princes' campaign: from the steppe to the Rus'",
+          "href": "/events/evt-84b509244d27db63/"
+        },
+        {
+          "no": 10,
+          "eventId": "evt-0ed720162f3a2b53",
+          "year": 1238,
+          "title": "基辅：一座都城的消失",
+          "titleEn": "Kiev: the disappearance of a capital",
+          "href": "/events/evt-0ed720162f3a2b53/"
+        },
+        {
+          "no": 11,
+          "eventId": "evt-1179b1bf2ce41a35",
+          "year": 1241,
+          "title": "莱格尼察：欧洲联军的覆没",
+          "titleEn": "Legnica: the destruction of the European host",
+          "href": "/events/evt-1179b1bf2ce41a35/"
+        },
+        {
+          "no": 12,
+          "eventId": "evt-d78462602bbe596a",
+          "year": 1242,
+          "title": "伏尔加河边的回头",
+          "titleEn": "Turning back at the Volga",
+          "href": "/events/evt-d78462602bbe596a/"
+        }
+      ]
+    },
+    {
+      "slug": "nile-kingdom",
+      "kind": "event",
+      "title": {
+        "zh": "尼罗河的统一：文字、金字塔与官僚国家",
+        "en": "The Nile Unified: Writing, Pyramids and the Bureaucratic State"
+      },
+      "subtitle": {
+        "zh": "前3200–前1550：从象形文字到新王国，埃及怎样把一条河变成国家",
+        "en": "3200–1550 BCE: from hieroglyphs to the New Kingdom, how Egypt turned a river into a state"
+      },
+      "period": {
+        "start": -3200,
+        "end": -1550
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-64e78298690ae858",
+          "year": -3200,
+          "title": "文字先服务于国家",
+          "titleEn": "Writing serves the state first",
+          "href": "/events/evt-64e78298690ae858/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-7fb5614b71cb7c5e",
+          "year": -3100,
+          "title": "那尔迈调色板：统一被画成一个王",
+          "titleEn": "The Narmer Palette: unification drawn as one king",
+          "href": "/events/evt-7fb5614b71cb7c5e/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-60362ea34a8c51d2",
+          "year": -2686,
+          "title": "左塞尔的阶梯金字塔：石构国家项目",
+          "titleEn": "Djoser's Step Pyramid: a state project in stone",
+          "href": "/events/evt-60362ea34a8c51d2/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-e1bed80933ef8019",
+          "year": -2560,
+          "title": "吉萨大金字塔：把全国物流压进一座山",
+          "titleEn": "The Great Pyramid: national logistics in one mountain",
+          "href": "/events/evt-e1bed80933ef8019/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-43b1dd6c526ebf7a",
+          "year": -1570,
+          "title": "雅赫摩斯与希克索斯：新王国的军事财政",
+          "titleEn": "Ahmose and the Hyksos: the military-fiscal New Kingdom",
+          "href": "/events/evt-43b1dd6c526ebf7a/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-91b0fc3656b13a48",
+          "year": -1550,
+          "title": "《埃伯斯纸卷》：经验、咒语与解剖同在一卷",
+          "titleEn": "The Ebers Papyrus: experience, spell and anatomy in one scroll",
+          "href": "/events/evt-91b0fc3656b13a48/"
+        }
+      ]
+    },
+    {
+      "slug": "oceanic-discovery",
+      "kind": "event",
+      "title": {
+        "zh": "大航海：从好望角到环球",
+        "en": "The Oceanic Turn: From Cape of Good Hope to Circumnavigation"
+      },
+      "subtitle": {
+        "zh": "1488–1522：欧洲人怎样把大西洋与印度洋接成一条航线",
+        "en": "1488–1522: how Europeans joined the Atlantic and Indian Oceans into one route"
+      },
+      "period": {
+        "start": 1488,
+        "end": 1522
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-82bf7765185e01a2",
+          "year": 1488,
+          "title": "迪亚士绕好望角",
+          "titleEn": "Dias rounds the Cape of Good Hope",
+          "href": "/events/evt-82bf7765185e01a2/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-7ee4282f85a734e0",
+          "year": 1492,
+          "title": "哥伦布发现美洲",
+          "titleEn": "Columbus discovers the Americas",
+          "href": "/events/evt-7ee4282f85a734e0/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-8046147f1dcaaeb2",
+          "year": 1494,
+          "title": "《托尔德西里亚斯条约》签署",
+          "titleEn": "Treaty of Tordesillas signed",
+          "href": "/events/evt-8046147f1dcaaeb2/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-6fdef0fffdd7b9c7",
+          "year": 1498,
+          "title": "达伽马船队抵达卡利卡特",
+          "titleEn": "Vasco da Gama’s fleet reaches Calicut",
+          "href": "/events/evt-6fdef0fffdd7b9c7/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-ef80438f01f41a3d",
+          "year": 1500,
+          "title": "卡布拉尔抵达巴西",
+          "titleEn": "Cabral reaches Brazil",
+          "href": "/events/evt-ef80438f01f41a3d/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-36f415e1582f28ab",
+          "year": 1519,
+          "title": "麦哲伦船队启航环球航行",
+          "titleEn": "Magellan's Fleet Begins Circumnavigation",
+          "href": "/events/evt-36f415e1582f28ab/"
+        }
+      ]
+    },
+    {
+      "slug": "ottoman-rise",
+      "kind": "event",
+      "title": {
+        "zh": "奥斯曼崛起：从边境贝伊国到帝国",
+        "en": "The Rise of the Ottomans: From Frontier Beylik to Empire"
+      },
+      "subtitle": {
+        "zh": "1299–1522：一个边境小国怎样变成跨洲帝国",
+        "en": "1299–1522: how a frontier principality became a transcontinental empire"
+      },
+      "period": {
+        "start": 1299,
+        "end": 1522
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-ec918cfdb2fbc420",
+          "year": 1299,
+          "title": "1299–1300：边境贝伊国",
+          "titleEn": "1299–1300: a frontier beylik",
+          "href": "/events/evt-ec918cfdb2fbc420/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-a96efafc9efde2bc",
+          "year": 1326,
+          "title": "1326：布鲁萨成为都城",
+          "titleEn": "1326: Bursa becomes the capital",
+          "href": "/events/evt-a96efafc9efde2bc/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-97bc8c8cfca5091f",
+          "year": 1354,
+          "title": "1354：加里波利桥头堡",
+          "titleEn": "1354: the Gallipoli bridgehead",
+          "href": "/events/evt-97bc8c8cfca5091f/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-9e8e7d9b5726a23f",
+          "year": 1396,
+          "title": "1396：尼科波利斯",
+          "titleEn": "1396: Nicopolis",
+          "href": "/events/evt-9e8e7d9b5726a23f/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-5c1c714b29876dc3",
+          "year": 1453,
+          "title": "1453：君士坦丁堡",
+          "titleEn": "1453: Constantinople",
+          "href": "/events/evt-5c1c714b29876dc3/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-832e53d6e1390ca1",
+          "year": 1522,
+          "title": "1522：罗得岛",
+          "titleEn": "1522: Rhodes",
+          "href": "/events/evt-832e53d6e1390ca1/"
+        }
+      ]
+    },
+    {
+      "slug": "phoenicia-carthage",
+      "kind": "event",
+      "title": {
+        "zh": "腓尼基与迦太基：港口、字母与汉尼拔",
+        "en": "Phoenicia and Carthage: Harbours, Letters and Hannibal"
+      },
+      "subtitle": {
+        "zh": "前10世纪–前216：一个海洋网络怎样运转，又怎样输掉一场战争",
+        "en": "10th century–216 BCE: how a maritime network worked, and how it lost a war"
+      },
+      "period": {
+        "start": -985,
+        "end": -216
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-b09fbc7d936f89c4",
+          "year": -985,
+          "title": "腓尼基城邦：一张没有帝国的海洋网络",
+          "titleEn": "The Phoenician city-states: a maritime network without an empire",
+          "href": "/events/evt-b09fbc7d936f89c4/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-6e846f7ef0839f94",
+          "year": -814,
+          "title": "迦太基建城：传统日期与考古地层",
+          "titleEn": "Founding Carthage: tradition and archaeology",
+          "href": "/events/evt-6e846f7ef0839f94/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-b16f482409d07694",
+          "year": -800,
+          "title": "字母：从北闪米特到希腊",
+          "titleEn": "The alphabet: from North Semitic to Greek",
+          "href": "/events/evt-b16f482409d07694/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-994177f0c6a27f0b",
+          "year": -450,
+          "title": "汉诺远航：已知世界边缘的航线",
+          "titleEn": "Hanno's voyage: a route at the edge of the known world",
+          "href": "/events/evt-994177f0c6a27f0b/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-7f6d569d935a70e6",
+          "year": -218,
+          "title": "汉尼拔翻越阿尔卑斯：把战争带进意大利",
+          "titleEn": "Hannibal crosses the Alps: bringing war into Italy",
+          "href": "/events/evt-7f6d569d935a70e6/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-755ac78cb52e5208",
+          "year": -216,
+          "title": "坎尼：双翼合围与没有兑现的胜利",
+          "titleEn": "Cannae: double envelopment and an unfulfilled victory",
+          "href": "/events/evt-755ac78cb52e5208/"
+        }
+      ]
+    },
+    {
+      "slug": "roman-empire",
+      "kind": "event",
+      "title": {
+        "zh": "罗马帝国：边疆、税收与合法性",
+        "en": "The Roman Empire: Frontier, Tax and Legitimacy"
+      },
+      "subtitle": {
+        "zh": "9–410：一个帝国怎样在危机中反复重建",
+        "en": "9–410: how an empire kept rebuilding itself in crisis"
+      },
+      "period": {
+        "start": 9,
+        "end": 410
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-a571269718ca07dc",
+          "year": 9,
+          "title": "条顿堡森林战役：罗马停止向莱茵河以东扩张",
+          "titleEn": "The Battle of the Teutoburg Forest: Rome stops east of the Rhine",
+          "href": "/events/evt-a571269718ca07dc/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-cae05dfaf0386c93",
+          "year": 80,
+          "title": "罗马斗兽场落成：公共娱乐与帝国财政",
+          "titleEn": "The Colosseum opens: public entertainment and imperial finance",
+          "href": "/events/evt-cae05dfaf0386c93/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-43f60acd7543dfe8",
+          "year": 96,
+          "title": "图密善被刺杀，涅尔瓦收养图拉真",
+          "titleEn": "Domitian is assassinated; Nerva adopts Trajan",
+          "href": "/events/evt-43f60acd7543dfe8/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-46af0b3aeafa847d",
+          "year": 212,
+          "title": "卡拉卡拉把罗马公民权授予帝国自由民",
+          "titleEn": "Caracalla grants Roman citizenship to the empire's free inhabitants",
+          "href": "/events/evt-46af0b3aeafa847d/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-09a04202d72745be",
+          "year": 235,
+          "title": "三世纪危机：军团、税负与戴克里先的重组",
+          "titleEn": "The third-century crisis: armies, taxes and Diocletian's reorganisation",
+          "href": "/events/evt-09a04202d72745be/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-1162389f24f55d45",
+          "year": 313,
+          "title": "米兰协议：宗教宽容与基督教的合法地位",
+          "titleEn": "The Milan agreement: religious toleration and Christian legal status",
+          "href": "/events/evt-1162389f24f55d45/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-2bac92a782a1d50c",
+          "year": 410,
+          "title": "阿拉里克劫掠罗马：象征性重击，不是帝国终点",
+          "titleEn": "Alaric sacks Rome: a symbolic blow, not the end of the empire",
+          "href": "/events/evt-2bac92a782a1d50c/"
+        }
+      ]
+    },
+    {
+      "slug": "roman-republic",
+      "kind": "event",
+      "title": {
+        "zh": "罗马共和国：法典、军团与独裁",
+        "en": "The Roman Republic: Law, Legions and Dictatorship"
+      },
+      "subtitle": {
+        "zh": "前509–前27：一套共享权力的制度怎样走到元首制",
+        "en": "509–27 BCE: how a system of shared power became the principate"
+      },
+      "period": {
+        "start": -509,
+        "end": -27
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-b3cc513de9f2cd43",
+          "year": -509,
+          "title": "前509年：两名执政官",
+          "titleEn": "509 BCE: two consuls",
+          "href": "/events/evt-b3cc513de9f2cd43/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-bd9000cab46db1aa",
+          "year": -451,
+          "title": "前451–前450年：十二铜表法",
+          "titleEn": "451–450 BCE: the Twelve Tables",
+          "href": "/events/evt-bd9000cab46db1aa/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-fc47a23847537653",
+          "year": -264,
+          "title": "前264–前241年：第一次布匿战争",
+          "titleEn": "264–241 BCE: the First Punic War",
+          "href": "/events/evt-fc47a23847537653/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-b1e5dd6bd2c5b943",
+          "year": -202,
+          "title": "前202年：扎马",
+          "titleEn": "202 BCE: Zama",
+          "href": "/events/evt-b1e5dd6bd2c5b943/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-5ae62317504b602b",
+          "year": -108,
+          "title": "前108–前107年：马略募兵",
+          "titleEn": "108–107 BCE: Marius recruits the landless",
+          "href": "/events/evt-5ae62317504b602b/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-46d4d9ee3f67581f",
+          "year": -44,
+          "title": "前44年：凯撒遇刺",
+          "titleEn": "44 BCE: Caesar's assassination",
+          "href": "/events/evt-46d4d9ee3f67581f/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-f127651e50c50e5f",
+          "year": -27,
+          "title": "前27年：奥古斯都与元首制",
+          "titleEn": "27 BCE: Augustus and the principate",
+          "href": "/events/evt-f127651e50c50e5f/"
+        }
+      ]
+    },
+    {
+      "slug": "sumer-cities",
+      "kind": "event",
+      "title": {
+        "zh": "苏美尔：从神庙城市到阿卡德帝国",
+        "en": "Sumer: From Temple Cities to the Akkadian Empire"
+      },
+      "subtitle": {
+        "zh": "前4500–前2334：城市、账本与王权怎样在两河流域成形",
+        "en": "4500–2334 BCE: how cities, ledgers and kingship took shape in Mesopotamia"
+      },
+      "period": {
+        "start": -4500,
+        "end": -2334
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-334d001a1f7093be",
+          "year": -4500,
+          "title": "埃利都：城市从神庙开始",
+          "titleEn": "Eridu: a city begins with a temple",
+          "href": "/events/evt-334d001a1f7093be/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-52cf2bbfe61510f6",
+          "year": -4100,
+          "title": "陶筹与图画：文字的前奏",
+          "titleEn": "Tokens and pictographs: the prelude to writing",
+          "href": "/events/evt-52cf2bbfe61510f6/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-7f6b375cd52419b0",
+          "year": -4000,
+          "title": "乌鲁克：最大城市与神庙经济",
+          "titleEn": "Uruk: the largest city and its temple economy",
+          "href": "/events/evt-7f6b375cd52419b0/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-6043fe974e4bf88c",
+          "year": -3700,
+          "title": "城市革命：灌溉、神庙与城邦",
+          "titleEn": "The urban revolution: irrigation, temples and city-states",
+          "href": "/events/evt-6043fe974e4bf88c/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-12038ddb8bc443b1",
+          "year": -3500,
+          "title": "乌鲁克的城市化：一个长期过程",
+          "titleEn": "Uruk's urbanisation: a long process",
+          "href": "/events/evt-12038ddb8bc443b1/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-7e7a5f42701594ab",
+          "year": -3400,
+          "title": "原始楔形文字：芦苇杆与黏土板",
+          "titleEn": "Proto-cuneiform: reed stylus and clay tablet",
+          "href": "/events/evt-7e7a5f42701594ab/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-8589612b5c846610",
+          "year": -3200,
+          "title": "行政账本：文字怎样管理城市",
+          "titleEn": "Administrative ledgers: how writing managed the city",
+          "href": "/events/evt-8589612b5c846610/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-dac94fcc162a8d96",
+          "year": -3000,
+          "title": "楔形文字成熟：进入成文历史",
+          "titleEn": "Cuneiform matures: entering recorded history",
+          "href": "/events/evt-dac94fcc162a8d96/"
+        },
+        {
+          "no": 9,
+          "eventId": "evt-33075eb5003eff0c",
+          "year": -2700,
+          "title": "吉尔伽美什：从王到史诗",
+          "titleEn": "Gilgamesh: from king to epic",
+          "href": "/events/evt-33075eb5003eff0c/"
+        },
+        {
+          "no": 10,
+          "eventId": "evt-fd1f572ad2f02674",
+          "year": -2334,
+          "title": "萨尔贡：城邦时代的终点",
+          "titleEn": "Sargon: the end of the city-state order",
+          "href": "/events/evt-fd1f572ad2f02674/"
+        }
+      ]
+    },
+    {
+      "slug": "sun-quan",
+      "kind": "person",
+      "title": {
+        "zh": "孙权：守业者的称臣与称帝",
+        "en": "Sun Quan: A Successor's Vassalage and Imperial Claim"
+      },
+      "subtitle": {
+        "zh": "继承兄业，在联盟与称臣之间换取江东的安全与合法性",
+        "en": "Inheriting his brother's cause, trading alliance and vassalage for Jiangdong's security and legitimacy"
+      },
+      "period": {
+        "start": 195,
+        "end": 252
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-ade3b41d2fb0c1fc",
+          "year": 195,
+          "title": "孙策在江东崭露头角",
+          "titleEn": "Sun Ce emerges in Jiangdong",
+          "href": "/events/evt-ade3b41d2fb0c1fc/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-c38085fe18bef71f",
+          "year": 200,
+          "title": "孙策遇刺，孙权继位",
+          "titleEn": "Sun Ce assassinated, Sun Quan succeeds",
+          "href": "/events/evt-c38085fe18bef71f/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-ed6793d4866065c8",
+          "year": 212,
+          "title": "迁都秣陵筑石头城",
+          "titleEn": "Moves capital to Moling, builds Stone City",
+          "href": "/events/evt-ed6793d4866065c8/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-c62edd4973a41776",
+          "year": 221,
+          "title": "受魏封吴王",
+          "titleEn": "Receives Wei's title King of Wu",
+          "href": "/events/evt-c62edd4973a41776/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-9f305b9fd8223139",
+          "year": 222,
+          "title": "拒遣质子建元黄武",
+          "titleEn": "Refuses hostage, adopts era Huangwu",
+          "href": "/events/evt-9f305b9fd8223139/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-01b10efcdcf58570",
+          "year": 229,
+          "title": "武昌称帝",
+          "titleEn": "Proclaims emperor at Wuchang",
+          "href": "/events/evt-01b10efcdcf58570/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-11e11c5533f41197",
+          "year": 230,
+          "title": "遣卫温诸葛直赴夷洲",
+          "titleEn": "Sends Wei Wen and Zhuge Zhi to Yizhou",
+          "href": "/events/evt-11e11c5533f41197/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-7397b714a5d88ab4",
+          "year": 252,
+          "title": "孙权病逝",
+          "titleEn": "Death of Sun Quan",
+          "href": "/events/evt-7397b714a5d88ab4/"
+        }
+      ]
+    },
+    {
+      "slug": "west-african-empires",
+      "kind": "event",
+      "title": {
+        "zh": "西非黄金帝国：加纳、马里与桑海",
+        "en": "Gold Empires of West Africa: Ghana, Mali and Songhai"
+      },
+      "subtitle": {
+        "zh": "500–1591：跨撒哈拉贸易怎样养出帝国与城市",
+        "en": "500–1591: how trans-Saharan trade sustained empires and cities"
+      },
+      "period": {
+        "start": 500,
+        "end": 1591
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-b1286168f00557b8",
+          "year": 500,
+          "title": "加纳帝国兴起：西非第一个帝国",
+          "titleEn": "Rise of the Ghana Empire: first empire in West Africa",
+          "href": "/events/evt-b1286168f00557b8/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-5cc2b8cd4b89a949",
+          "year": 805,
+          "title": "加纳帝国控制西非黄金贸易",
+          "titleEn": "The Ghana Empire controls West African gold trade",
+          "href": "/events/evt-5cc2b8cd4b89a949/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-403f493d5588313c",
+          "year": 1235,
+          "title": "马里帝国建立：曼萨·穆萨的黄金时代",
+          "titleEn": "Mali Empire established: Mansa Musa's golden age",
+          "href": "/events/evt-403f493d5588313c/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-56f667860e8c49a4",
+          "year": 1312,
+          "title": "曼萨·穆萨朝圣麦加",
+          "titleEn": "Mansa Musa's hajj",
+          "href": "/events/evt-56f667860e8c49a4/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-b5881f4b3864dc5d",
+          "year": 1352,
+          "title": "伊本·白图泰抵马里",
+          "titleEn": "Ibn Battuta reaches Mali",
+          "href": "/events/evt-b5881f4b3864dc5d/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-bf3ee4908c73c548",
+          "year": 1464,
+          "title": "桑海帝国崛起：西非最大帝国",
+          "titleEn": "Rise of the Songhai Empire: West Africa's largest empire",
+          "href": "/events/evt-bf3ee4908c73c548/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-b79b0b2d8003abea",
+          "year": 1591,
+          "title": "摩洛哥军摧毁桑海",
+          "titleEn": "Morocco destroys Songhai",
+          "href": "/events/evt-b79b0b2d8003abea/"
+        }
+      ]
+    },
+    {
+      "slug": "yuan-founding",
+      "kind": "event",
+      "title": {
+        "zh": "元朝：从草原大汗到中原皇帝",
+        "en": "The Yuan Dynasty: From Steppe Khan to Emperor of China"
+      },
+      "subtitle": {
+        "zh": "1251–1294：忽必烈怎样把蒙古帝国的一支改造成中原王朝",
+        "en": "1251–1294: how Kublai turned one branch of the Mongol Empire into a Central Plains dynasty"
+      },
+      "period": {
+        "start": 1251,
+        "end": 1294
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-0226a7f40f6bcec7",
+          "year": 1251,
+          "title": "阿勒台河畔的忽里勒台",
+          "titleEn": "The kurultai by the Altai River",
+          "href": "/events/evt-0226a7f40f6bcec7/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-f742fdcd438bd43f",
+          "year": 1253,
+          "title": "远征大理：从侧翼包抄南宋",
+          "titleEn": "The Dali campaign: outflanking the Southern Song",
+          "href": "/events/evt-f742fdcd438bd43f/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-bb4b009544c676db",
+          "year": 1258,
+          "title": "巴格达的七日",
+          "titleEn": "Seven days in Baghdad",
+          "href": "/events/evt-bb4b009544c676db/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-bfad6755cfa4bb32",
+          "year": 1260,
+          "title": "开平与哈拉和林：两个大汗",
+          "titleEn": "Kaiping and Karakorum: two great khans",
+          "href": "/events/evt-bfad6755cfa4bb32/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-206f42b2fe7f8758",
+          "year": 1267,
+          "title": "大都：一座按轴线建起的都城",
+          "titleEn": "Dadu: a capital laid out on an axis",
+          "href": "/events/evt-206f42b2fe7f8758/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-065176c17527f808",
+          "year": 1271,
+          "title": "大元：国号背后的转身",
+          "titleEn": "Great Yuan: the turn behind a dynastic name",
+          "href": "/events/evt-065176c17527f808/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-fabaf7d069ac4243",
+          "year": 1275,
+          "title": "马可·波罗来到上都",
+          "titleEn": "Marco Polo arrives at Shangdu",
+          "href": "/events/evt-fabaf7d069ac4243/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-9e37138c0b80d03c",
+          "year": 1276,
+          "title": "临安不战而降",
+          "titleEn": "Lin'an surrenders without a battle",
+          "href": "/events/evt-9e37138c0b80d03c/"
+        },
+        {
+          "no": 9,
+          "eventId": "evt-c48bbb21ba7074b1",
+          "year": 1279,
+          "title": "文天祥：拒绝事二姓",
+          "titleEn": "Wen Tianxiang: refusing to serve a second house",
+          "href": "/events/evt-c48bbb21ba7074b1/"
+        },
+        {
+          "no": 10,
+          "eventId": "evt-5a11bed7af88fefb",
+          "year": 1280,
+          "title": "崖山之后：统一中国",
+          "titleEn": "After Yamen: the unification of China",
+          "href": "/events/evt-5a11bed7af88fefb/"
+        },
+        {
+          "no": 11,
+          "eventId": "evt-d7f62a93864b2945",
+          "year": 1280,
+          "title": "《授时历》：365.2425 日",
+          "titleEn": "The Shoushi calendar: 365.2425 days",
+          "href": "/events/evt-d7f62a93864b2945/"
+        },
+        {
+          "no": 12,
+          "eventId": "evt-f4154963003e78cc",
+          "year": 1294,
+          "title": "大都紫檀殿的终点",
+          "titleEn": "The end at the Zitan Hall in Dadu",
+          "href": "/events/evt-f4154963003e78cc/"
+        }
+      ]
+    },
+    {
+      "slug": "zheng-he-voyages",
+      "kind": "event",
+      "title": {
+        "zh": "郑和七下西洋：宝船、季风与朝贡",
+        "en": "Zheng He's Seven Voyages: Treasure Ships, Monsoons and Tribute"
+      },
+      "subtitle": {
+        "zh": "1405–1433：一支国家船队怎样把南海与印度洋连成可重复的航线",
+        "en": "1405–1433: how a state fleet turned the South China Sea and Indian Ocean into a repeatable route"
+      },
+      "period": {
+        "start": 1405,
+        "end": 1433
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-f84e79be07dbdf6d",
+          "year": 1405,
+          "title": "郑和第一次下西洋",
+          "titleEn": "Zheng He's first voyage to the Western Ocean",
+          "href": "/events/evt-f84e79be07dbdf6d/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-e822448b18c253b7",
+          "year": 1407,
+          "title": "郑和第二次下西洋：送使臣与锡兰山布施",
+          "titleEn": "Zheng He's second voyage: returning envoys and the Ceylon donation",
+          "href": "/events/evt-e822448b18c253b7/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-7e6de9f76b7c950c",
+          "year": 1409,
+          "title": "郑和第三次下西洋：满剌加官厂与锡兰山事件",
+          "titleEn": "Zheng He's third voyage: the Malacca depot and the Ceylon episode",
+          "href": "/events/evt-7e6de9f76b7c950c/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-a9c9f4a90e111389",
+          "year": 1413,
+          "title": "郑和第四次下西洋到达忽鲁谟斯",
+          "titleEn": "Zheng He's fourth voyage reaches Hormuz",
+          "href": "/events/evt-a9c9f4a90e111389/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-7203c50a31e9d93c",
+          "year": 1417,
+          "title": "郑和第五次下西洋到达东非",
+          "titleEn": "Zheng He's fifth voyage reaches East Africa",
+          "href": "/events/evt-7203c50a31e9d93c/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-0bc7c9b6e58faffb",
+          "year": 1421,
+          "title": "郑和第六次下西洋：护送十六国使臣",
+          "titleEn": "Zheng He's sixth voyage: escorting envoys from sixteen states",
+          "href": "/events/evt-0bc7c9b6e58faffb/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-05b9cd45dabf3c75",
+          "year": 1430,
+          "title": "郑和第七次下西洋与病逝古里",
+          "titleEn": "Zheng He's seventh voyage and his death at Calicut",
+          "href": "/events/evt-05b9cd45dabf3c75/"
+        }
+      ]
+    },
+    {
+      "slug": "zhuge-liang",
+      "kind": "person",
+      "title": {
+        "zh": "诸葛亮：隆中对到五丈原",
+        "en": "Zhuge Liang: From the Longzhong Plan to the Wu Zhang Plains"
+      },
+      "subtitle": {
+        "zh": "联盟、内政与北伐节奏，一条贯穿蜀汉相业的主线",
+        "en": "Alliance, internal governance, and the rhythm of the northern expeditions, the thread through Shu's chancellorship"
+      },
+      "period": {
+        "start": 207,
+        "end": 234
+      },
+      "depthTier": "L2",
+      "evidenceStatus": "sourced",
+      "status": "review",
+      "chapters": [
+        {
+          "no": 1,
+          "eventId": "evt-5299c08953eb0927",
+          "year": 207,
+          "title": "隆中对策出山",
+          "titleEn": "The Longzhong Plan and joining Liu Bei",
+          "href": "/events/evt-5299c08953eb0927/"
+        },
+        {
+          "no": 2,
+          "eventId": "evt-fcfed73e4e313371",
+          "year": 208,
+          "title": "出使江东促成联盟",
+          "titleEn": "Envoy to Jiangdong, securing the Sun–Liu alliance",
+          "href": "/events/evt-fcfed73e4e313371/"
+        },
+        {
+          "no": 3,
+          "eventId": "evt-de18593d4664172e",
+          "year": 222,
+          "title": "刘禅继位开府治事",
+          "titleEn": "Liu Shan succeeds; Zhuge Liang opens his office",
+          "href": "/events/evt-de18593d4664172e/"
+        },
+        {
+          "no": 4,
+          "eventId": "evt-008262328f929426",
+          "year": 223,
+          "title": "派邓芝使吴修复联盟",
+          "titleEn": "Sends Deng Zhi to repair the Shu–Wu alliance",
+          "href": "/events/evt-008262328f929426/"
+        },
+        {
+          "no": 5,
+          "eventId": "evt-feb0253302b56172",
+          "year": 225,
+          "title": "南征平定南中",
+          "titleEn": "Southern campaign, pacifying Nanzhong",
+          "href": "/events/evt-feb0253302b56172/"
+        },
+        {
+          "no": 6,
+          "eventId": "evt-9d430da27b4d75f1",
+          "year": 227,
+          "title": "上出师表进驻汉中",
+          "titleEn": "Presents Chu Shi Biao, advances to Hanzhong",
+          "href": "/events/evt-9d430da27b4d75f1/"
+        },
+        {
+          "no": 7,
+          "eventId": "evt-ed15f42d65c8a4a2",
+          "year": 228,
+          "title": "第一次北伐街亭失利",
+          "titleEn": "First northern expedition, loss at Jieting",
+          "href": "/events/evt-ed15f42d65c8a4a2/"
+        },
+        {
+          "no": 8,
+          "eventId": "evt-b68ba1ab7f4efc61",
+          "year": 234,
+          "title": "病逝五丈原",
+          "titleEn": "Dies of illness at Wu Zhang Plains",
+          "href": "/events/evt-b68ba1ab7f4efc61/"
+        }
+      ]
+    }
+  ]
+}

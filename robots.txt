@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /components/
+Sitemap: https://timeline.shilu.org/sitemap-index.xml

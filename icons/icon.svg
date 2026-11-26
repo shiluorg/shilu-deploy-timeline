@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">实录微笑地球</title>
+  <defs><clipPath id="earth"><circle cx="32" cy="32" r="29"/></clipPath></defs>
+  <g clip-path="url(#earth)">
+    <circle cx="32" cy="32" r="29" fill="#005b59"/>
+    <path d="M2 3h31c5 3 5 9 2 13-3 4-7 4-11 5-4 1-5 5-9 5-5 0-8-4-13-3Z" fill="#95b984"/>
+    <path d="M62 40c-5-2-9-1-12 2-3 3-7 2-10 5-4 4-4 9-3 16h28Z" fill="#95b984"/>
+    <circle cx="23" cy="31" r="2.35" fill="#fff4d8"/>
+    <circle cx="41" cy="31" r="2.35" fill="#fff4d8"/>
+    <path d="M28 36.5c2 3.3 6 3.3 8 0" fill="none" stroke="#fff4d8" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+</svg>
